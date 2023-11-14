@@ -2,6 +2,7 @@
   "users": [
     {
       "id": 1,
+      "profile": "./assets/pfp1.svg",
       "createDate": "24 Sep 2000",
       "createdBy": "Brad Pitt, George Fusaro",
       "patient": "Antonio, Arturo Fusaro",
@@ -12,6 +13,7 @@
     },
     {
       "id": 2,
+      "profile": "./assets/pfp2.svg",
       "createDate": "18 Sep 2005",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -28,6 +30,7 @@
     },
     {
       "id": 3,
+      "profile": "./assets/pfp3.svg",
       "createDate": "07 Sep 2006",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -44,6 +47,7 @@
     },
     {
       "id": 4,
+      "profile": "./assets/pfp4.svg",
       "createDate": "02 Sep 2007",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -60,6 +64,7 @@
     },
     {
       "id": 5,
+      "profile": "./assets/pfp5.svg",
       "createDate": "15 Sep 2004",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -76,6 +81,7 @@
     },
     {
       "id": 6,
+      "profile": "./assets/pfp6.svg",
       "createDate": "11 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -92,6 +98,7 @@
     },
     {
       "id": 7,
+      "profile": "./assets/pfp7.svg",
       "createDate": "08 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -108,6 +115,7 @@
     },
     {
       "id": 8,
+      "profile": "./assets/pfp1.svg",
       "createDate": "14 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -124,6 +132,7 @@
     },
     {
       "id": 9,
+      "profile": "./assets/pfp2.svg",
       "createDate": "23 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -140,6 +149,7 @@
     },
     {
       "id": 10,
+      "profile": "./assets/pfp3.svg",
       "createDate": "17 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
@@ -156,6 +166,7 @@
     },
     {
       "id": 11,
+      "profile": "./assets/pfp4.svg",
       "createDate": "01 Nov 2023",
       "createdBy": "Testing User",
       "patient": "Testing Patient",
@@ -172,6 +183,7 @@
     },
     {
       "id": 12,
+      "profile": "./assets/pfp5.svg",
       "createDate": "02 Nov 2023",
       "createdBy": "Testing 1",
       "patient": "Patient 1",
