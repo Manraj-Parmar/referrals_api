@@ -5,7 +5,7 @@
       "createDate": "24 Sep 2000",
       "createdBy": "Brad Pitt, George Fusaro",
       "patient": "Antonio, Arturo Fusaro",
-      "patientDob": "24 Sep 1998",
+      "patientDob": "24 Sep 2005",
       "referralType": "Radiology",
       "provider": "Elite Care Medical Center",
       "status": "Created"
@@ -17,18 +17,30 @@
       "patient": "Sam Smith",
       "patientDob": "24 Sep 1998",
       "referralType": "Pathology",
-      "provider": "Elite Care Medical Center",
-      "status": "Sent"
+      "provider": "Testing Center",
+      "status": "Sent",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 3,
       "createDate": "07 Sep 2006",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
-      "patientDob": "24 Sep 1998",
+      "patientDob": "24 Sep 2005",
       "referralType": "Radiology",
       "provider": "Elite Care Medical Center",
-      "status": "Viewed"
+      "status": "Viewed",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 4,
@@ -37,18 +49,30 @@
       "patient": "Sam Smith",
       "patientDob": "24 Sep 1998",
       "referralType": "Pathology",
-      "provider": "Elite Care Medical Center",
-      "status": "Used"
+      "provider": "Testing Centerr",
+      "status": "Used",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 5,
       "createDate": "15 Sep 2004",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
-      "patientDob": "24 Sep 1998",
+      "patientDob": "14 Sep 2006",
       "referralType": "Radiology",
       "provider": "Elite Care Medical Center",
-      "status": "Rejected"
+      "status": "Rejected",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 6,
@@ -57,18 +81,30 @@
       "patient": "Sam Smith",
       "patientDob": "24 Sep 1998",
       "referralType": "Pathology",
-      "provider": "Elite Care Medical Center",
-      "status": "Waitlist"
+      "provider": "Testing Center",
+      "status": "Waitlist",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 7,
       "createDate": "08 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
-      "patientDob": "24 Sep 1998",
+      "patientDob": "14 Sep 2006",
       "referralType": "Radiology",
       "provider": "Elite Care Medical Center",
-      "status": "Expired"
+      "status": "Expired",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 8,
@@ -77,18 +113,30 @@
       "patient": "Sam Smith",
       "patientDob": "24 Sep 1998",
       "referralType": "Pathology",
-      "provider": "Elite Care Medical Center",
-      "status": "Completed"
+      "provider": "Testing Center",
+      "status": "Completed",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 9,
       "createDate": "23 Sep 2008",
       "createdBy": "Brad Pitt",
       "patient": "Sam Smith",
-      "patientDob": "24 Sep 1998",
+      "patientDob": "14 Sep 2006",
       "referralType": "Radiology",
       "provider": "Elite Care Medical Center",
-      "status": "Archived"
+      "status": "Archived",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
       "id": 10,
@@ -97,28 +145,46 @@
       "patient": "Sam Smith",
       "patientDob": "24 Sep 1998",
       "referralType": "Pathology",
-      "provider": "Elite Care Medical Center",
-      "status": "Waitlist"
+      "provider": "Testing Center",
+      "status": "Waitlist",
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
-      "createDate": "01/11/2023",
+      "id": 11,
+      "createDate": "01 Nov 2023",
       "createdBy": "Testing User",
       "patient": "Testing Patient",
-      "patientDob": "2023-10-19",
+      "patientDob": "24 Sep 2000",
       "referralType": "Pathology",
       "provider": "Elite Care Medical Center",
       "status": "Sent",
-      "id": 11
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     },
     {
-      "createDate": "02/11/2023",
+      "id": 12,
+      "createDate": "02 Nov 2023",
       "createdBy": "Testing 1",
       "patient": "Patient 1",
-      "patientDob": "2023-10-10",
+      "patientDob": "24 Sep 2010",
       "referralType": "Pathology",
       "provider": "Elite Care Medical Center",
       "status": "Created",
-      "id": 12
+      "details": {
+        "Referrals details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Patient details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Clinic details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula.",
+        "Status details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pharetra ligula."
+      }
     }
   ],
   "details": []
